@@ -147,7 +147,7 @@ grid on
 ```
 
 # github
-https://github.com/rein-chihaya/DrawBode
+https://github.com/TakumiUeda/DrawBode/
 
 
 # 参考文献
